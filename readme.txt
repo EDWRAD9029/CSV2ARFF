@@ -1,4 +1,4 @@
-CSV2ARFF version1.0 作成者:野村拓未(ma20077)
+CSV2ARFF version1.0
 更新日時 2021/07/18
 
 CSVファイルをARFFファイルに変換するプログラムです。
